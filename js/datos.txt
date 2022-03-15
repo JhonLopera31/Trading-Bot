@@ -1,0 +1,91 @@
+1 Sin operación -> data[1] === "Operaciones"
+2 Con operación
+    2.1 Operación antes de Cerrar -> data.contains('Cerrar')
+    2.2 Operación cerrada
+
+[" ", "Operaciones", "Ayuda", "Mercado", "Ajustes", "Aprende más", "14651", 
+"online", "Operaciones", "Activas", "Cerradas", " ", " ", "Operaciones Activas", 
+"0,00 Đ", "Invertido", "0,00 Đ", "Ganancias y Pérdidas", "No has abierto ninguna operación", 
+"CUENTA DEMO", "9989,14 Đ", "Depositar", "1", "EUR USD", "70%", "49%", "51%", "online EUR USD", 
+"03.03.2021 21:28:54", "21:20", "21:25", "21:30", "21:35", "1.20540", "1.20550", 
+"1.20560", "1.20570", "1.20580", "1.20590", "1.20600", "Inicio de la", "operación", 
+"Final de la", "operación", "1.20551", "0.00000", "00:06", "15 seg.", "1 min.", "5 min.", 
+"10 min.", "15 min.", "30 min.", "1 hora", "4 horas", "1 día", "7 días", "1 mes", "EUR USD", 
+"Fixed Time", "Importe, Đ", "Duración", "Orden", "Cancelar", "Arriba", "+70%", "Abajo", "+70%", 
+"2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "1 / 12"]
+
+[" ", "1", "Operaciones", "Ayuda", "Mercado", "Ajustes", "Aprende más", "14681",
+ "online", "Operaciones", "Activas", "1", "Cerradas", " ", " ", "Operaciones Activas", 
+ "6,00 Đ", "Invertido", "0,00 Đ", "Ganancias y Pérdidas", "EUR USD", "FTT 70%", 
+ " 6,00 Đ", "01", ":", "00", "0,00 Đ", "Cerrar", "4,08 Đ", "CUENTA DEMO", "9989,03 Đ", 
+ "Depositar", "1", "EUR USD", "70%", "48%", "52%", "online EUR USD", "03.03.2021 21:29:50", 
+ "21:20", "21:25", "21:30", "21:35", "1.20540", "1.20550", "1.20560", "1.20570", "1.20580", 
+ "1.20590", "1.20600", "Inicio de la", "operación", "Final de la", "operación", "1.20543", 
+ "1.20609", "00:10", "Đ6", "15 seg.", "1 min.", "5 min.", "10 min.", "15 min.", 
+ "30 min.", "1 hora", "4 horas", "1 día", "7 días", "1 mes", "EUR USD", "Fixed Time", 
+ "Importe, Đ", "Duración", "Orden", "Cancelar", "Arriba", "+70%", "Abajo", "+70%", 
+ "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "1 / 12"]
+
+ [" ", "1", "Operaciones", "Ayuda", "Mercado", "Ajustes", "Aprende más", "14756", 
+ "online", "Operaciones", "Activas", "1", "Cerradas", " ", " ", "Operaciones Activas", 
+ "6,00 Đ", "Invertido", "+4,20 Đ", "Ganancias y Pérdidas", "EUR USD", "FTT 70%", 
+ " 6,00 Đ", "00", ":", "08", "+4,20 Đ", "No vender", "CUENTA DEMO", "9983,14 Đ", 
+ "Depositar", "1", "EUR USD", "70%", "47%", "53%", "online EUR USD", "03.03.2021 21:30:42", 
+ "21:20", "21:25", "21:30", "21:35", "1.20540", "1.20550", "1.20560", "1.20570", 
+ "1.20580", "1.20590", "1.20600", "Inicio de la", "operación", "Final de la", 
+ "operación", "1.20544", "1.20609", "00:18", "Đ6", "15 seg.", "1 min.", "5 min.", 
+ "10 min.", "15 min.", "30 min.", "1 hora", "4 horas", "1 día", "7 días", "1 mes", 
+ "EUR USD", "Fixed Time", "Importe, Đ", "Duración", "Orden", "Cancelar", "Arriba", 
+ "+70%", "Abajo", "+70%", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "1 / 12"]
+
+ [" ", "Operaciones", "Ayuda", "Mercado", "Ajustes", "Aprende más", "14738", "online",
+ "Operaciones", "Activas", "Cerradas", " ", " ", "Operaciones Activas", "0,00 Đ",
+ "Invertido", "0,00 Đ", "Ganancias y Pérdidas", "No has abierto ninguna operación",
+ "CUENTA DEMO", "9983,14 Đ", "Depositar", "1", "EUR USD", "70%", "48%", "52%",
+ "online EUR USD", "03.03.2021 21:32:14", "21:25", "21:30", "21:35", "1.20520", 
+ "1.20530", "1.20540", "1.20550", "1.20560", "1.20570", "1.20580", "1.20590", 
+ "1.20600", "Inicio de la", "operación", "Final de la", "operación", "1.20531",
+ "1.20612", "00:46", "15 seg.", "1 min.", "5 min.", "10 min.", "15 min.", "30 min.",
+ "1 hora", "4 horas", "1 día", "7 días", "1 mes", "EUR USD", "Fixed Time", "Importe, Đ",
+ "Duración", "Orden", "Cancelar", "Arriba", "+70%", "Abajo", "+70%", "2", "3", "4",
+ "5", "6", "7", "8", "9", "10", "11", "1 / 12"]
+
+[" ", "1", "Operaciones", "Ayuda", "Mercado", "Ajustes", "Aprende más", "14670", 
+"online", "Operaciones", "Activas", "1", "Cerradas", " ", " ", "Operaciones Activas", 
+"6,00 Đ", "Invertido", "0,00 Đ", "Ganancias y Pérdidas", "EUR USD", "FTT 70%", 
+" 6,00 Đ", "00", ":", "59", "0,00 Đ", "Cerrar", "4,08 Đ", "CUENTA DEMO", "9971,14 Đ",
+"Depositar", "1", "EUR USD", "70%", "45%", "55%", "online EUR USD", "03.03.2021 21:34:12", 
+"21:25", "21:30", "21:35", "21:40", "1.20515", "1.20520", "1.20525", "1.20530", "1.20535", 
+"1.20540", "1.20545", "1.20550", "1.20555", "1.20560", "Inicio de la", "operación", 
+"Final de la", "operación", "1.20522", "1.20593", "00:48", "Đ6", "Đ6", "15 seg.", 
+"1 min.", "5 min.", "10 min.", "15 min.", "30 min.", "1 hora", "4 horas", "1 día", 
+"7 días", "1 mes", "EUR USD", "Fixed Time", "Importe, Đ", "Duración", "Orden", 
+"Cancelar", "Arriba", "+70%", "Abajo", "+70%", "2", "3", "4", "5", "6", "7", "8", 
+"9", "10", "11", "1 / 12"] l 94
+
+[" ", "4", "Operaciones", "Ayuda", "Mercado", "Ajustes", "Aprende más", "14670", 
+"online", "Operaciones", "Activas", "4", "Cerradas", " ", " ", "Operaciones Activas", 
+"24,00 Đ", "Invertido", "+6,60 Đ", "Ganancias y Pérdidas", "4", "EUR USD", "FTT", 
+" 24,00 Đ", "+28%", "+6,60 Đ", "CUENTA DEMO", "9953,14 Đ", "Depositar", "1", "EUR USD", 
+"70%", "44%", "56%", "online EUR USD", "03.03.2021 21:35:06", "21:25", "21:30", 
+"21:35", "21:40", "1.20515", "1.20520", "1.20525", "1.20530", "1.20535", "1.20540", 
+"1.20545", "1.20550", "1.20555", "1.20560", "Inicio de la", "operación", 
+"Final de la", "operación", "1.20524", "1.20593", "00:54", "Đ6", "Đ6", "Đ6", 
+"Đ6", "15 seg.", "1 min.", "5 min.", "10 min.", "15 min.", "30 min.", "1 hora", 
+"4 horas", "1 día", "7 días", "1 mes", "EUR USD", "Fixed Time", "Importe, Đ", 
+"Duración", "Orden", "Cancelar", "Arriba", "+70%", "Abajo", "+70%", "2", "3", 
+"4", "5", "6", "7", "8", "9", "10", "11", "1 / 12"]
+
+
+[" ", "2", "Operaciones", "Ayuda", "Mercado", "Ajustes", "Aprende más", "14670", 
+"online", "Operaciones", "Activas", "2", "Cerradas", " ", " ", "Operaciones Activas",
+"12,00 Đ", "Invertido", "-6,00 Đ", "Ganancias y Pérdidas", "2", "EUR USD", "FTT", 
+" 12,00 Đ", "-50%", "-6,00 Đ", "CUENTA DEMO", "9965,14 Đ", "Depositar", "1", 
+"EUR USD", "70%", "44%", "56%", "online EUR USD", "03.03.2021 21:34:40", "21:25",
+"21:30", "21:35", "21:40", "1.20515", "1.20520", "1.20525", "1.20530", "1.20535",
+"1.20540", "1.20545", "1.20550", "1.20555", "1.20560", "Inicio de la", "operación",
+"Final de la", "operación", "1.20521", "1.20593", "00:20", "Đ6", "Đ6", "15 seg.",
+"1 min.", "5 min.", "10 min.", "15 min.", "30 min.", "1 hora", "4 horas", 
+"1 día", "7 días", "1 mes", "EUR USD", "Fixed Time", "Importe, Đ", "Duración",
+"Orden", "Cancelar", "Arriba", "+70%", "Abajo", "+70%", "2", "3", "4", "5", "6",
+"7", "8", "9", "10", "11", "1 / 12"]
